@@ -1,0 +1,15 @@
+{
+  "name": "chatbot-project",
+  "version": "1.0.0",
+  "description": "A simple chatbot using OpenAI API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "openai": "^3.0.0"
+  }
+}
